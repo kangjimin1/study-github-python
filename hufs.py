@@ -1,5 +1,4 @@
 print('hufs')
 print('hi')
-print('my name is kangjimin')
-print('종강 16일전')
-print('내일은 화요알')
+print('my name is kangjimin)
+print("오늘은 현충일")
